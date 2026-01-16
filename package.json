@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/yassine-allali-vinci/IPL-social#readme",
   "dependencies": {
-    "jest": "^30.2.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "@types/jest": "^30.0.0"
   }
 }
