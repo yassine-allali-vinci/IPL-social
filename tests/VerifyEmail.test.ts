@@ -10,5 +10,13 @@ describe('VerifyEmail', () => {
 
             expect(actual).toBe("Invalid email: contains spaces");
         });
+
+        it("should reject email without @", () => {
+            let verify = new VerifyEmail;
+
+            let actual = verify.verifyValidEmail("examemail.com");
+
+            expect(actual).toBe("Invalid email: missing @");
+        });
     })
 })
