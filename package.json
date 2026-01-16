@@ -1,0 +1,19 @@
+{
+  "name": "ipl-social",
+  "version": "1.0.0",
+  "description": "Nom : ALLALI    \r Prénom : Yassine\r Email: yassine.allali@student.vinci.be",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassine-allali-vinci/IPL-social.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassine-allali-vinci/IPL-social/issues"
+  },
+  "homepage": "https://github.com/yassine-allali-vinci/IPL-social#readme"
+}
